@@ -1,5 +1,3 @@
-# README-TESTE-DEMO
-
 # README - Deploy DEMO:
 
 Este guia fornece instruções detalhadas sobre como realizar um deploy da aplicação em demo. Certifique-se de seguir cada etapa com atenção para garantir um processo de deploy seguro e bem sucedido.
